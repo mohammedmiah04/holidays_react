@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mohammedmiah04/holidays_react/static/css/main.28eaa912.chunk.css",
-    "main.js": "/mohammedmiah04/holidays_react/static/js/main.a5caf075.chunk.js",
-    "main.js.map": "/mohammedmiah04/holidays_react/static/js/main.a5caf075.chunk.js.map",
-    "runtime-main.js": "/mohammedmiah04/holidays_react/static/js/runtime-main.f8af6db5.js",
-    "runtime-main.js.map": "/mohammedmiah04/holidays_react/static/js/runtime-main.f8af6db5.js.map",
-    "static/js/2.b79bb511.chunk.js": "/mohammedmiah04/holidays_react/static/js/2.b79bb511.chunk.js",
-    "static/js/2.b79bb511.chunk.js.map": "/mohammedmiah04/holidays_react/static/js/2.b79bb511.chunk.js.map",
-    "index.html": "/mohammedmiah04/holidays_react/index.html",
-    "precache-manifest.e6baf9b5802063cd63e1c017b020f5f5.js": "/mohammedmiah04/holidays_react/precache-manifest.e6baf9b5802063cd63e1c017b020f5f5.js",
-    "service-worker.js": "/mohammedmiah04/holidays_react/service-worker.js",
-    "static/css/main.28eaa912.chunk.css.map": "/mohammedmiah04/holidays_react/static/css/main.28eaa912.chunk.css.map",
-    "static/js/2.b79bb511.chunk.js.LICENSE.txt": "/mohammedmiah04/holidays_react/static/js/2.b79bb511.chunk.js.LICENSE.txt"
+    "main.css": "/holidays_react/static/css/main.28eaa912.chunk.css",
+    "main.js": "/holidays_react/static/js/main.a5caf075.chunk.js",
+    "main.js.map": "/holidays_react/static/js/main.a5caf075.chunk.js.map",
+    "runtime-main.js": "/holidays_react/static/js/runtime-main.e166a9ad.js",
+    "runtime-main.js.map": "/holidays_react/static/js/runtime-main.e166a9ad.js.map",
+    "static/js/2.b79bb511.chunk.js": "/holidays_react/static/js/2.b79bb511.chunk.js",
+    "static/js/2.b79bb511.chunk.js.map": "/holidays_react/static/js/2.b79bb511.chunk.js.map",
+    "index.html": "/holidays_react/index.html",
+    "precache-manifest.ce8f06f4d20590fe8c8f4db68a40d818.js": "/holidays_react/precache-manifest.ce8f06f4d20590fe8c8f4db68a40d818.js",
+    "service-worker.js": "/holidays_react/service-worker.js",
+    "static/css/main.28eaa912.chunk.css.map": "/holidays_react/static/css/main.28eaa912.chunk.css.map",
+    "static/js/2.b79bb511.chunk.js.LICENSE.txt": "/holidays_react/static/js/2.b79bb511.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f8af6db5.js",
+    "static/js/runtime-main.e166a9ad.js",
     "static/js/2.b79bb511.chunk.js",
     "static/css/main.28eaa912.chunk.css",
     "static/js/main.a5caf075.chunk.js"
