@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "17dbab72f859250967518b0ceb9518f0",
+    "revision": "175da3055d363da8ac0f01713285da5b",
     "url": "/holidays_react/index.html"
   },
   {
-    "revision": "33f4ecf2a838bef74545",
+    "revision": "f00d3d792b023a49cd18",
     "url": "/holidays_react/static/css/main.28eaa912.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/holidays_react/static/js/2.2a511b6e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "33f4ecf2a838bef74545",
-    "url": "/holidays_react/static/js/main.e0c465a9.chunk.js"
+    "revision": "f00d3d792b023a49cd18",
+    "url": "/holidays_react/static/js/main.14a45857.chunk.js"
   },
   {
     "revision": "3787fa5926ff5547928f",
