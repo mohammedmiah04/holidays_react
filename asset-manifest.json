@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/holidays_react/static/css/main.28eaa912.chunk.css",
-    "main.js": "/holidays_react/static/js/main.a5caf075.chunk.js",
-    "main.js.map": "/holidays_react/static/js/main.a5caf075.chunk.js.map",
-    "runtime-main.js": "/holidays_react/static/js/runtime-main.e166a9ad.js",
-    "runtime-main.js.map": "/holidays_react/static/js/runtime-main.e166a9ad.js.map",
-    "static/js/2.b79bb511.chunk.js": "/holidays_react/static/js/2.b79bb511.chunk.js",
-    "static/js/2.b79bb511.chunk.js.map": "/holidays_react/static/js/2.b79bb511.chunk.js.map",
+    "main.js": "/holidays_react/static/js/main.e0c465a9.chunk.js",
+    "main.js.map": "/holidays_react/static/js/main.e0c465a9.chunk.js.map",
+    "runtime-main.js": "/holidays_react/static/js/runtime-main.c13845a4.js",
+    "runtime-main.js.map": "/holidays_react/static/js/runtime-main.c13845a4.js.map",
+    "static/js/2.2a511b6e.chunk.js": "/holidays_react/static/js/2.2a511b6e.chunk.js",
+    "static/js/2.2a511b6e.chunk.js.map": "/holidays_react/static/js/2.2a511b6e.chunk.js.map",
     "index.html": "/holidays_react/index.html",
-    "precache-manifest.ce8f06f4d20590fe8c8f4db68a40d818.js": "/holidays_react/precache-manifest.ce8f06f4d20590fe8c8f4db68a40d818.js",
+    "precache-manifest.3e88fa336670cb519da204534f3d18fd.js": "/holidays_react/precache-manifest.3e88fa336670cb519da204534f3d18fd.js",
     "service-worker.js": "/holidays_react/service-worker.js",
     "static/css/main.28eaa912.chunk.css.map": "/holidays_react/static/css/main.28eaa912.chunk.css.map",
-    "static/js/2.b79bb511.chunk.js.LICENSE.txt": "/holidays_react/static/js/2.b79bb511.chunk.js.LICENSE.txt"
+    "static/js/2.2a511b6e.chunk.js.LICENSE.txt": "/holidays_react/static/js/2.2a511b6e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e166a9ad.js",
-    "static/js/2.b79bb511.chunk.js",
+    "static/js/runtime-main.c13845a4.js",
+    "static/js/2.2a511b6e.chunk.js",
     "static/css/main.28eaa912.chunk.css",
-    "static/js/main.a5caf075.chunk.js"
+    "static/js/main.e0c465a9.chunk.js"
   ]
 }
